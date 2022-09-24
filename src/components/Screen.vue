@@ -1,5 +1,5 @@
 <template>
-  <div class="relative w-[375px] h-[810px] bg-primary rounded-[25px] overflow-hidden">
+  <div class="relative w-[375px] h-[810px] bg-primary rounded-[25px] overflow-hidden shadow-[0_0_20px] shadow-[rgba(0,0,0,0.2)]">
     <!-- Top menu -->
     <Navbar class="absolute top-[0] z-[10]" />
 
